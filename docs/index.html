@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex"><title>Vom Token zum Agenten</title>
+<style>
+:root { color-scheme: light dark; --text:#1d1d1f; --leise:#6e6e73; --grund:#fff; }
+@media (prefers-color-scheme: dark) { :root { --text:#f5f5f7; --leise:#a1a1a6; --grund:#111; } }
+body { font: 16px/1.5 system-ui, sans-serif; max-width: 46rem; margin: 2rem auto; padding: 0 16px;
+       color: var(--text); background: var(--grund); }
+small, .leise { color: var(--leise); } li { margin: 0 0 1.2rem; } audio { width: 100%; margin-top: .3rem; }
+code { word-break: break-all; }
+</style></head><body>
+<h1>Vom Token zum Agenten</h1>
+<p class="leise">KI für Entwickler – von den Grundlagen bis zum Harness</p>
+<p>In der Podcast-App abonnieren (Apple Podcasts: Mediathek → „Sendung per URL folgen“, Pocket Casts, AntennaPod, Overcast):<br>
+<code>https://bitweise-ki.github.io/vom-token-zum-agenten/feed.xml</code></p>
+<p class="leise">⭐ = Kernpfad. Die Stimmen sind KI-generiert.</p>
+<ol style="list-style:none;padding:0">
+<li><b>00 · Trailer: Worum es geht</b> ⭐<br><small>Wer spricht, für wen die Reihe ist, die acht Staffeln als Landkarte, der Kernpfad und das Ticket, das uns durch die Reihe begleitet</small><br><audio controls preload="none" src="audio/00-trailer.mp3"></audio></li>
+<li><b>01 · Regeln schreiben oder Regeln lernen lassen</b> ⭐<br><small>KI als Sammelbegriff, Regeln schreiben gegen Machine Learning, Modell und Gewichte, Training und Inferenz, Overfitting</small><br><audio controls preload="none" src="audio/01-regeln-schreiben-oder-regeln-lernen-lassen.mp3"></audio></li>
+<li><b>02 · Neuronale Netze und Deep Learning</b><br><small>Neuronen und Schichten als Kette von Funktionen, warum Deep Learning Merkmale selbst findet und warum das Modell eine Black Box ist</small><br><audio controls preload="none" src="audio/02-neuronale-netze-und-deep-learning.mp3"></audio></li>
+<li><b>03 · Klassisches ML oder generative KI?</b><br><small>Entscheiden gegen Erzeugen, Foundation Models und warum klassisches Machine Learning für klare Aufgaben oft die bessere Wahl ist</small><br><audio controls preload="none" src="audio/03-klassisches-ml-oder-generative-ki.mp3"></audio></li>
+<li><b>04 · Die Familie der generativen Modelle</b><br><small>Sprachmodelle, Diffusionsmodelle, GANs und multimodale Modelle im Überblick</small><br><audio controls preload="none" src="audio/04-die-familie-der-generativen-modelle.mp3"></audio></li>
+<li><b>05 · Tokens – die Währung der KI</b> ⭐<br><small>Was Tokens sind, wie Text zerlegt wird und warum Kosten, Limits und Buchstabenzählen davon abhängen</small><br><audio controls preload="none" src="audio/05-tokens-die-waehrung-der-ki.mp3"></audio></li>
+<li><b>06 · Next-Token-Prediction – der ganze Trick</b> ⭐<br><small>Wie ein Sprachmodell Text Token für Token erzeugt, warum das mehr ist als Autovervollständigung und warum es nichts nachschlägt</small><br><audio controls preload="none" src="audio/06-next-token-prediction-der-ganze-trick.mp3"></audio></li>
+<li><b>07 · Temperatur und Sampling – warum KI nie gleich antwortet</b><br><small>Sampling, Temperatur und Top-p, warum selbst Temperatur null nicht garantiert reproduzierbar ist und was das für Tests heißt</small><br><audio controls preload="none" src="audio/07-temperatur-und-sampling-warum-ki-nie-gleich-antwortet.mp3"></audio></li>
+<li><b>08 · Transformer und Attention</b><br><small>Die Architektur hinter allen Sprachmodellen: Attention, Parallelität und Tokens als Zahlenreihen – ohne Mathe</small><br><audio controls preload="none" src="audio/08-transformer-und-attention.mp3"></audio></li>
+<li><b>09 · Vom Rohmodell zum Assistenten</b><br><small>Pre-Training und Base Model, Instruction Tuning, bestärkendes Lernen aus Bewertungen und der Knowledge Cutoff</small><br><audio controls preload="none" src="audio/09-vom-rohmodell-zum-assistenten.mp3"></audio></li>
+<li><b>10 · Halluzinationen</b> ⭐<br><small>Warum Sprachmodelle plausibel Falsches erzeugen, erfundene APIs und Pakete und welche Gegenmittel es gibt</small><br><audio controls preload="none" src="audio/10-halluzinationen.mp3"></audio></li>
+<li><b>11 · Was ein Chatbot wirklich ist</b> ⭐<br><small>Modell und Produkt, die zustandslose API, der Nachrichtenverlauf als Gedächtnis und die Rollen im Gespräch</small><br><audio controls preload="none" src="audio/11-was-ein-chatbot-wirklich-ist.mp3"></audio></li>
+<li><b>12 · Das Kontextfenster</b> ⭐<br><small>Wie viel ein Modell auf einmal sieht, was das kostet, warum mehr nicht besser ist und was Prompt Caching bringt</small><br><audio controls preload="none" src="audio/12-das-kontextfenster.mp3"></audio></li>
+<li><b>13 · Prompting für Entwickler</b> ⭐<br><small>Systemprompt, Zero- und Few-Shot, Chain of Thought und der Prompt als Spezifikation</small><br><audio controls preload="none" src="audio/13-prompting-fuer-entwickler.mp3"></audio></li>
+<li><b>14 · Strukturierte Ausgaben – das Modell als Funktion</b><br><small>JSON-Schema und Structured Outputs: wie ein Modellaufruf zur typisierten Funktion im eigenen Code wird</small><br><audio controls preload="none" src="audio/14-strukturierte-ausgaben-das-modell-als-funktion.mp3"></audio></li>
+<li><b>15 · Testen, wenn nichts deterministisch ist: Evals</b><br><small>Evals als Testsuite für Verhalten, die wichtigsten Bewertungsarten und Regressionen messen wie in der CI</small><br><audio controls preload="none" src="audio/15-testen-wenn-nichts-deterministisch-ist-evals.mp3"></audio></li>
+<li><b>16 · Welches Modell nehme ich?</b><br><small>Reasoning-Modelle, große und kleine Modelle, proprietär oder Open-Weight – und entscheiden mit eigenen Evals</small><br><audio controls preload="none" src="audio/16-welches-modell-nehme-ich.mp3"></audio></li>
+<li><b>17 · Das Wissensproblem und drei Wege</b><br><small>Warum das Modell unsere Daten nicht kennt und die drei Wege: alles in den Kontext, RAG und Fine-Tuning</small><br><audio controls preload="none" src="audio/17-das-wissensproblem-und-drei-wege.mp3"></audio></li>
+<li><b>18 · Embeddings – Suchen nach Bedeutung</b><br><small>Text als Vektor, semantische Nähe und Ähnlichkeitssuche mit Embedding-Modellen</small><br><audio controls preload="none" src="audio/18-embeddings-suchen-nach-bedeutung.mp3"></audio></li>
+<li><b>19 · RAG Schritt für Schritt</b><br><small>Chunking, Vektordatenbank, hybride Suche, Reranking und Quellenangaben – und wie man misst, ob RAG trifft</small><br><audio controls preload="none" src="audio/19-rag-schritt-fuer-schritt.mp3"></audio></li>
+<li><b>20 · Fine-Tuning und seine Grenzen</b><br><small>Wann Nachtrainieren hilft, wann nicht – und warum RAG Wissen gibt und Fine-Tuning Verhalten</small><br><audio controls preload="none" src="audio/20-fine-tuning-und-seine-grenzen.mp3"></audio></li>
+<li><b>21 · Tool Use – das Modell ruft Funktionen auf</b> ⭐<br><small>Werkzeugliste, strukturierte Aufrufe und warum immer dein Code ausführt, nie das Modell</small><br><audio controls preload="none" src="audio/21-tool-use-das-modell-ruft-funktionen-auf.mp3"></audio></li>
+<li><b>22 · Der Agent Loop</b> ⭐<br><small>Die Schleife aus Fragen, Ausführen und Beobachten, Abbruchbedingungen und die Formel: ein Modell in einer Schleife mit Werkzeugen</small><br><audio controls preload="none" src="audio/22-der-agent-loop.mp3"></audio></li>
+<li><b>33 · Gedächtnis und Skills</b><br><small>Kurz- und Langzeitgedächtnis, Projektdateien für Agenten, Skills – und manipulierte Regeldateien als Risiko</small><br><audio controls preload="none" src="audio/33-gedaechtnis-und-skills.mp3"></audio></li>
+</ol>
+</body></html>

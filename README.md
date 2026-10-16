@@ -13,7 +13,12 @@ Die Stimmen von Jana und Tom sind KI-generiert.
 
 ## Hören
 
-Der RSS-Feed zum Abonnieren in der Podcast-App folgt in Kürze hier.
+- **Im Browser:** https://bitweise-ki.github.io/vom-token-zum-agenten/
+- **In der Podcast-App** diese Adresse abonnieren: `https://bitweise-ki.github.io/vom-token-zum-agenten/feed.xml`
+  - Apple Podcasts: Mediathek → „…“ → „Sendung per URL folgen“
+  - Pocket Casts, AntennaPod, Overcast: Suche → Adresse einfügen
+
+Noch nicht vertonte Folgen erscheinen nach und nach im Feed.
 
 ## Kernpfad für Eilige
 

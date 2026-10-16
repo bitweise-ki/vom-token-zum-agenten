@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Vom Token zum Agenten</title>
+    <link>https://bitweise-ki.github.io/vom-token-zum-agenten/</link>
+    <description>Podcast für Entwickler: wie Sprachmodelle funktionieren, vom einzelnen Token bis zum autonomen Agenten. Jana erklärt, Tom fragt nach. Die Stimmen sind KI-generiert.</description>
+    <language>de</language>
+    <lastBuildDate>Fri, 16 Oct 2026 08:44:04 +0000</lastBuildDate>
+    <itunes:author>bitweise</itunes:author>
+    <itunes:type>serial</itunes:type>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>33 · Gedächtnis und Skills</title>
+      <itunes:title>Gedächtnis und Skills</itunes:title>
+      <itunes:season>7</itunes:season>
+      <itunes:episode>33</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:07:34</itunes:duration>
+      <description>Kurz- und Langzeitgedächtnis, Projektdateien für Agenten, Skills – und manipulierte Regeldateien als Risiko
+
+Der Harness</description>
+      <enclosure url="https://bitweise-ki.github.io/vom-token-zum-agenten/audio/33-gedaechtnis-und-skills.mp3" length="3632727" type="audio/mpeg"/>
+      <guid isPermaLink="false">vom-token-zum-agenten-33</guid>
+      <pubDate>Fri, 16 Oct 2026 08:33:00 +0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>22 · Der Agent Loop</title>
+      <itunes:title>Der Agent Loop</itunes:title>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:06:41</itunes:duration>
+      <description>Die Schleife aus Fragen, Ausführen und Beobachten, Abbruchbedingungen und die Formel: ein Modell in einer Schleife mit Werkzeugen
+
+Vom Chatbot zum Agenten · gehört zum Kernpfad</description>
+      <enclosure url="https://bitweise-ki.github.io/vom-token-zum-agenten/audio/22-der-agent-loop.mp3" length="3210703" type="audio/mpeg"/>
+      <guid isPermaLink="false">vom-token-zum-agenten-22</guid>
+      <pubDate>Fri, 16 Oct 2026 08:22:00 +0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>21 · Tool Use – das Modell ruft Funktionen auf</title>
+      <itunes:title>Tool Use – das Modell ruft Funktionen auf</itunes:title>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:08:23</itunes:duration>
+      <description>Werkzeugliste, strukturierte Aufrufe und warum immer dein Code ausführt, nie das Modell
+
+Vom Chatbot zum Agenten · gehört zum Kernpfad</description>
+      <enclosure url="https://bitweise-ki.github.io/vom-token-zum-agenten/audio/21-tool-use-das-modell-ruft-funktionen-auf.mp3" length="4027884" type="audio/mpeg"/>
+      <guid isPermaLink="false">vom-token-zum-agenten-21</guid>
+      <pubDate>Fri, 16 Oct 2026 08:21:00 +0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>20 · Fine-Tuning und seine Grenzen</title>
+      <itunes:title>Fine-Tuning und seine Grenzen</itunes:title>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:07:24</itunes:duration>
+      <description>Wann Nachtrainieren hilft, wann nicht – und warum RAG Wissen gibt und Fine-Tuning Verhalten
+
+Eigenes Wissen ins Modell</description>
+      <enclosure url="https://bitweise-ki.github.io/vom-token-zum-agenten/audio/20-fine-tuning-und-seine-grenzen.mp3" length="3550558" type="audio/mpeg"/>
+      <guid isPermaLink="false">vom-token-zum-agenten-20</guid>
+      <pubDate>Fri, 16 Oct 2026 08:20:00 +0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>19 · RAG Schritt für Schritt</title>
+      <itunes:title>RAG Schritt für Schritt</itunes:title>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:07:52</itunes:duration>
+      <description>Chunking, Vektordatenbank, hybride Suche, Reranking und Quellenangaben – und wie man misst, ob RAG trifft
+
+Eigenes Wissen ins Modell</description>
+      <enclosure url="https://bitweise-ki.github.io/vom-token-zum-agenten/audio/19-rag-schritt-fuer-schritt.mp3" length="3779033" type="audio/mpeg"/>
+      <guid isPermaLink="false">vom-token-zum-agenten-19</guid>
+      <pubDate>Fri, 16 Oct 2026 08:19:00 +0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>18 · Embeddings – Suchen nach Bedeutung</title>
+      <itunes:title>Embeddings – Suchen nach Bedeutung</itunes:title>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:06:48</itunes:duration>
+      <description>Text als Vektor, semantische Nähe und Ähnlichkeitssuche mit Embedding-Modellen
+
+Eigenes Wissen ins Modell</description>
+      <enclosure url="https://bitweise-ki.github.io/vom-token-zum-agenten/audio/18-embeddings-suchen-nach-bedeutung.mp3" length="3263525" type="audio/mpeg"/>
+      <guid isPermaLink="false">vom-token-zum-agenten-18</guid>
+      <pubDate>Fri, 16 Oct 2026 08:18:00 +0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>17 · Das Wissensproblem und drei Wege</title>
+      <itunes:title>Das Wissensproblem und drei Wege</itunes:title>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:07:12</itunes:duration>
+      <description>Warum das Modell unsere Daten nicht kennt und die drei Wege: alles in den Kontext, RAG und Fine-Tuning
+
+Eigenes Wissen ins Modell</description>
+      <enclosure url="https://bitweise-ki.github.io/vom-token-zum-agenten/audio/17-das-wissensproblem-und-drei-wege.mp3" length="3455713" type="audio/mpeg"/>
+      <guid isPermaLink="false">vom-token-zum-agenten-17</guid>
+      <pubDate>Fri, 16 Oct 2026 08:17:00 +0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>16 · Welches Modell nehme ich?</title>
+      <itunes:title>Welches Modell nehme ich?</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:06:19</itunes:duration>
+      <description>Reasoning-Modelle, große und kleine Modelle, proprietär oder Open-Weight – und entscheiden mit eigenen Evals
+
+Vom Chat zur API</description>
+      <enclosure url="https://bitweise-ki.github.io/vom-token-zum-agenten/audio/16-welches-modell-nehme-ich.mp3" length="3031386" type="audio/mpeg"/>
+      <guid isPermaLink="false">vom-token-zum-agenten-16</guid>
+      <pubDate>Fri, 16 Oct 2026 08:16:00 +0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>15 · Testen, wenn nichts deterministisch ist: Evals</title>
+      <itunes:title>Testen, wenn nichts deterministisch ist: Evals</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:06:51</itunes:duration>
+      <description>Evals als Testsuite für Verhalten, die wichtigsten Bewertungsarten und Regressionen messen wie in der CI
+
+Vom Chat zur API</description>
+      <enclosure url="https://bitweise-ki.github.io/vom-token-zum-agenten/audio/15-testen-wenn-nichts-deterministisch-ist-evals.mp3" length="3285615" type="audio/mpeg"/>
+      <guid isPermaLink="false">vom-token-zum-agenten-15</guid>
+      <pubDate>Fri, 16 Oct 2026 08:15:00 +0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>14 · Strukturierte Ausgaben – das Modell als Funktion</title>
+      <itunes:title>Strukturierte Ausgaben – das Modell als Funktion</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:06:22</itunes:duration>
+      <description>JSON-Schema und Structured Outputs: wie ein Modellaufruf zur typisierten Funktion im eigenen Code wird
+
+Vom Chat zur API</description>
+      <enclosure url="https://bitweise-ki.github.io/vom-token-zum-agenten/audio/14-strukturierte-ausgaben-das-modell-als-funktion.mp3" length="3056371" type="audio/mpeg"/>
+      <guid isPermaLink="false">vom-token-zum-agenten-14</guid>
+      <pubDate>Fri, 16 Oct 2026 08:14:00 +0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>13 · Prompting für Entwickler</title>
+      <itunes:title>Prompting für Entwickler</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:07:56</itunes:duration>
+      <description>Systemprompt, Zero- und Few-Shot, Chain of Thought und der Prompt als Spezifikation
+
+Vom Chat zur API · gehört zum Kernpfad</description>
+      <enclosure url="https://bitweise-ki.github.io/vom-token-zum-agenten/audio/13-prompting-fuer-entwickler.mp3" length="3805530" type="audio/mpeg"/>
+      <guid isPermaLink="false">vom-token-zum-agenten-13</guid>
+      <pubDate>Fri, 16 Oct 2026 08:13:00 +0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>12 · Das Kontextfenster</title>
+      <itunes:title>Das Kontextfenster</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:06:00</itunes:duration>
+      <description>Wie viel ein Modell auf einmal sieht, was das kostet, warum mehr nicht besser ist und was Prompt Caching bringt
+
+Vom Chat zur API · gehört zum Kernpfad</description>
+      <enclosure url="https://bitweise-ki.github.io/vom-token-zum-agenten/audio/12-das-kontextfenster.mp3" length="2882387" type="audio/mpeg"/>
+      <guid isPermaLink="false">vom-token-zum-agenten-12</guid>
+      <pubDate>Fri, 16 Oct 2026 08:12:00 +0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>11 · Was ein Chatbot wirklich ist</title>
+      <itunes:title>Was ein Chatbot wirklich ist</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:07:45</itunes:duration>
+      <description>Modell und Produkt, die zustandslose API, der Nachrichtenverlauf als Gedächtnis und die Rollen im Gespräch
+
+Vom Chat zur API · gehört zum Kernpfad</description>
+      <enclosure url="https://bitweise-ki.github.io/vom-token-zum-agenten/audio/11-was-ein-chatbot-wirklich-ist.mp3" length="3718173" type="audio/mpeg"/>
+      <guid isPermaLink="false">vom-token-zum-agenten-11</guid>
+      <pubDate>Fri, 16 Oct 2026 08:11:00 +0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>10 · Halluzinationen</title>
+      <itunes:title>Halluzinationen</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:07:15</itunes:duration>
+      <description>Warum Sprachmodelle plausibel Falsches erzeugen, erfundene APIs und Pakete und welche Gegenmittel es gibt
+
+Wie ein Sprachmodell tickt · gehört zum Kernpfad</description>
+      <enclosure url="https://bitweise-ki.github.io/vom-token-zum-agenten/audio/10-halluzinationen.mp3" length="3482960" type="audio/mpeg"/>
+      <guid isPermaLink="false">vom-token-zum-agenten-10</guid>
+      <pubDate>Fri, 16 Oct 2026 08:10:00 +0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>09 · Vom Rohmodell zum Assistenten</title>
+      <itunes:title>Vom Rohmodell zum Assistenten</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:07:31</itunes:duration>
+      <description>Pre-Training und Base Model, Instruction Tuning, bestärkendes Lernen aus Bewertungen und der Knowledge Cutoff
+
+Wie ein Sprachmodell tickt</description>
+      <enclosure url="https://bitweise-ki.github.io/vom-token-zum-agenten/audio/09-vom-rohmodell-zum-assistenten.mp3" length="3607390" type="audio/mpeg"/>
+      <guid isPermaLink="false">vom-token-zum-agenten-09</guid>
+      <pubDate>Fri, 16 Oct 2026 08:09:00 +0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>08 · Transformer und Attention</title>
+      <itunes:title>Transformer und Attention</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:06:35</itunes:duration>
+      <description>Die Architektur hinter allen Sprachmodellen: Attention, Parallelität und Tokens als Zahlenreihen – ohne Mathe
+
+Wie ein Sprachmodell tickt</description>
+      <enclosure url="https://bitweise-ki.github.io/vom-token-zum-agenten/audio/08-transformer-und-attention.mp3" length="3162714" type="audio/mpeg"/>
+      <guid isPermaLink="false">vom-token-zum-agenten-08</guid>
+      <pubDate>Fri, 16 Oct 2026 08:08:00 +0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>07 · Temperatur und Sampling – warum KI nie gleich antwortet</title>
+      <itunes:title>Temperatur und Sampling – warum KI nie gleich antwortet</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:05:27</itunes:duration>
+      <description>Sampling, Temperatur und Top-p, warum selbst Temperatur null nicht garantiert reproduzierbar ist und was das für Tests heißt
+
+Wie ein Sprachmodell tickt</description>
+      <enclosure url="https://bitweise-ki.github.io/vom-token-zum-agenten/audio/07-temperatur-und-sampling-warum-ki-nie-gleich-antwortet.mp3" length="2613242" type="audio/mpeg"/>
+      <guid isPermaLink="false">vom-token-zum-agenten-07</guid>
+      <pubDate>Fri, 16 Oct 2026 08:07:00 +0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>06 · Next-Token-Prediction – der ganze Trick</title>
+      <itunes:title>Next-Token-Prediction – der ganze Trick</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:06:42</itunes:duration>
+      <description>Wie ein Sprachmodell Text Token für Token erzeugt, warum das mehr ist als Autovervollständigung und warum es nichts nachschlägt
+
+Wie ein Sprachmodell tickt · gehört zum Kernpfad</description>
+      <enclosure url="https://bitweise-ki.github.io/vom-token-zum-agenten/audio/06-next-token-prediction-der-ganze-trick.mp3" length="3219562" type="audio/mpeg"/>
+      <guid isPermaLink="false">vom-token-zum-agenten-06</guid>
+      <pubDate>Fri, 16 Oct 2026 08:06:00 +0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>05 · Tokens – die Währung der KI</title>
+      <itunes:title>Tokens – die Währung der KI</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:05:42</itunes:duration>
+      <description>Was Tokens sind, wie Text zerlegt wird und warum Kosten, Limits und Buchstabenzählen davon abhängen
+
+Wie ein Sprachmodell tickt · gehört zum Kernpfad</description>
+      <enclosure url="https://bitweise-ki.github.io/vom-token-zum-agenten/audio/05-tokens-die-waehrung-der-ki.mp3" length="2736479" type="audio/mpeg"/>
+      <guid isPermaLink="false">vom-token-zum-agenten-05</guid>
+      <pubDate>Fri, 16 Oct 2026 08:05:00 +0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>04 · Die Familie der generativen Modelle</title>
+      <itunes:title>Die Familie der generativen Modelle</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:04:29</itunes:duration>
+      <description>Sprachmodelle, Diffusionsmodelle, GANs und multimodale Modelle im Überblick
+
+Was ist KI überhaupt?</description>
+      <enclosure url="https://bitweise-ki.github.io/vom-token-zum-agenten/audio/04-die-familie-der-generativen-modelle.mp3" length="2154916" type="audio/mpeg"/>
+      <guid isPermaLink="false">vom-token-zum-agenten-04</guid>
+      <pubDate>Fri, 16 Oct 2026 08:04:00 +0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>03 · Klassisches ML oder generative KI?</title>
+      <itunes:title>Klassisches ML oder generative KI?</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:04:41</itunes:duration>
+      <description>Entscheiden gegen Erzeugen, Foundation Models und warum klassisches Machine Learning für klare Aufgaben oft die bessere Wahl ist
+
+Was ist KI überhaupt?</description>
+      <enclosure url="https://bitweise-ki.github.io/vom-token-zum-agenten/audio/03-klassisches-ml-oder-generative-ki.mp3" length="2251685" type="audio/mpeg"/>
+      <guid isPermaLink="false">vom-token-zum-agenten-03</guid>
+      <pubDate>Fri, 16 Oct 2026 08:03:00 +0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>02 · Neuronale Netze und Deep Learning</title>
+      <itunes:title>Neuronale Netze und Deep Learning</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:04:33</itunes:duration>
+      <description>Neuronen und Schichten als Kette von Funktionen, warum Deep Learning Merkmale selbst findet und warum das Modell eine Black Box ist
+
+Was ist KI überhaupt?</description>
+      <enclosure url="https://bitweise-ki.github.io/vom-token-zum-agenten/audio/02-neuronale-netze-und-deep-learning.mp3" length="2183141" type="audio/mpeg"/>
+      <guid isPermaLink="false">vom-token-zum-agenten-02</guid>
+      <pubDate>Fri, 16 Oct 2026 08:02:00 +0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>01 · Regeln schreiben oder Regeln lernen lassen</title>
+      <itunes:title>Regeln schreiben oder Regeln lernen lassen</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:07:34</itunes:duration>
+      <description>KI als Sammelbegriff, Regeln schreiben gegen Machine Learning, Modell und Gewichte, Training und Inferenz, Overfitting
+
+Was ist KI überhaupt? · gehört zum Kernpfad</description>
+      <enclosure url="https://bitweise-ki.github.io/vom-token-zum-agenten/audio/01-regeln-schreiben-oder-regeln-lernen-lassen.mp3" length="3629294" type="audio/mpeg"/>
+      <guid isPermaLink="false">vom-token-zum-agenten-01</guid>
+      <pubDate>Fri, 16 Oct 2026 08:01:00 +0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>00 · Trailer: Worum es geht</title>
+      <itunes:title>Trailer: Worum es geht</itunes:title>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:duration>00:02:52</itunes:duration>
+      <description>Wer spricht, für wen die Reihe ist, die acht Staffeln als Landkarte, der Kernpfad und das Ticket, das uns durch die Reihe begleitet
+
+Auftakt · gehört zum Kernpfad</description>
+      <enclosure url="https://bitweise-ki.github.io/vom-token-zum-agenten/audio/00-trailer.mp3" length="1376715" type="audio/mpeg"/>
+      <guid isPermaLink="false">vom-token-zum-agenten-00</guid>
+      <pubDate>Fri, 16 Oct 2026 08:00:00 +0000</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
